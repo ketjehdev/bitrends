@@ -7,9 +7,8 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-    // index function
-
-    public function index()
+    // home function
+    public function home()
     {
         $data = [
             'title' => 'Bangun Bisnis Anda Dengan BiTrends',
