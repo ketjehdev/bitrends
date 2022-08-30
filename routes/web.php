@@ -8,4 +8,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'home'])->name('home');
 Route::get('/bitrends', [BitrendsController::class, 'bitrends'])->name('bitrends');
-Route::get('/ecommmerce', [EcommerceController::class, 'ecommerce'])->name('ecommerce');
+Route::get('/ecommerce', [EcommerceController::class, 'ecommerce'])->name('ecommerce');
