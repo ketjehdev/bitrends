@@ -7,4 +7,3 @@
     <title>{{ $title }} | {{ ucfirst($page) }}</title>
 </head>
 <body>
-@include('layout.navbar')
