@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-xl position-fixed"
 style="box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px; width: 100%; background: #fff; z-index: 10; border-top: 4px solid #0BA665;">
 <div class="container-fluid">
-    <a href="/" class="navbar-brand my-0 ms-xl-4">
+    <a href="/" class="navbar-brand my-0 ms-2 ms-xl-4">
         <strong><span style="color:#097A4B">Bi</span><span style="color: #0BA665">Trends</span></strong>
     </a>
 
@@ -14,7 +14,7 @@ style="box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px; width: 100%; background:
         <div class="navbar-nav ms-auto">
             <a href="" class="nav-item nav-link text-center mx-4" style="color: #0BA665; border-bottom: 2px solid #0BA665;">Home</a>
             <a href="" class="nav-item nav-link text-center mx-4">Trend Bisnis</a>
-            <a href="" class="nav-item nav-link text-center mx-4">Toko Online</a>
+            <a href="" class="nav-item nav-link text-center mx-4">Support Bisnis</a>
             <a href="" class="nav-item nav-link text-center mx-4">About Us</a>
         </div>
         
