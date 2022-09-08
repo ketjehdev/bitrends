@@ -10,7 +10,7 @@
             <span style="font-weight: 500;">Mulai bisnis tanpa takut ketinggalan zaman dengan <strong><span style="color: #05633B">Bi</span><span style="color: #0BA665">Trends</span></strong></span>.
         </p>
 
-        <div class="text-center text-md-start text-xl-start">
+        <div class="text-center text-md-start text-xl-start mt-4 mt-xl-2">
             <a class="btn btn-success" style="border-radius: 65px;">
                 Lihat Trend Bisnis
             </a>
