@@ -2,6 +2,7 @@
 style="box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px; width: 100%; background: #fff; z-index: 10; border-top: 4px solid #0BA665;">
 <div class="container-fluid">
     <a href="/" class="navbar-brand my-0 ms-2 ms-xl-4">
+        {{-- <img src="{{ asset('image/logo.png') }}" height="50" alt="nevillespace" class="me-1 ms-3 my-0 logo"> --}}
         <strong><span style="color:#097A4B">Bi</span><span style="color: #0BA665">Trends</span></strong>
     </a>
 
@@ -21,7 +22,7 @@ style="box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px; width: 100%; background:
         <div class="navbar-nav ms-auto text-center">
             <a href="" class="nav-item nav-link text-center" style="color: #0ba665;"><strong>Login</strong></a>
             <a class="nav-item nav-link btn text-light px-3 me-4" style="border-radius: 20px; font-weight: bold; border: 0; background: #0BA665">
-                Sign Up
+                Gabung
             </a>
         </div>
     </div>
