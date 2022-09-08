@@ -10,17 +10,11 @@
                 Ayo Mulai Bisnis Anda dan Meluncur 
                 Tanpa Ragu Dengan <strong>Bitrends</strong>.
         </p>
-
-<<<<<<< HEAD
-        <div class="text-center text-md-start text-xl-start mt-4 mt-xl-2">
-            <a class="btn btn-success" style="border-radius: 65px;">
-                Lihat Trend Bisnis
-=======
         <div class="text-center text-md-start text-xl-start">
             <a class="btn btn-success" style="border-radius: 5px;">
                 Bangun Bisnis
->>>>>>> a37c172c641e53a712b6e8f3e6e7e2a976b6dc1c
             </a>
+            
             <a class="btn text-success">
                 <strong>Lihat Trends ></strong>
             </a>
